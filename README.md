@@ -1,6 +1,6 @@
 # Random MIDI effect for Logic Pro V1.0.0
 
-**A Logic pro Scripter preset that mimics Ableton Live Random MIDI effect **
+****A Logic pro Scripter preset that mimics Ableton Live Random MIDI effect ****
 
 By: JJJ_B  GitHub: https://github.com/deadtomb/Random-for-logic 
 
